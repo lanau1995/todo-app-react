@@ -32,7 +32,7 @@ Caso deseje testar esse projeto, siga os passos abaixo!
 
 + Primeiro clone este repositório 
 ```jsx
-git clone https://github.com/linhous/todo-ts-redux.git
+git clone https://github.com/lanau1995/todo-app-react.git
 ```
 + Entre na pasta todo-ts-redux
 ```jsx
